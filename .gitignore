@@ -1,0 +1,6 @@
+venv/
+__pycache__/
+*.pyc
+gesture_data.csv
+gesture_model.pkl
+hand_landmarker.task
