@@ -1,7 +1,7 @@
 # Hand Gesture Game Controller
 
 Control any arrow-key game using hand gestures and your webcam.
-No keyboard needed — just your hand.
+No keyboard needed, just your hand.
 
 ---
 
