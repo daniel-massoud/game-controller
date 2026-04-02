@@ -16,10 +16,9 @@ options = vision.HandLandmarkerOptions(
 )
 detector = vision.HandLandmarker.create_from_options(options)
 
-GESTURES = ["neutral"]
+GESTURES = ["tilt_left", "tilt_right", "point_up", "point_down", "neutral"]
 
 data_file = "gesture_data.csv"
-
 if not os.path.exists(data_file):
     with open(data_file, "w", newline="") as f:
         writer = csv.writer(f)
