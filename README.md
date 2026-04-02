@@ -13,7 +13,7 @@ No keyboard needed — just your hand.
 | Point down | Slide (↓) |
 | Tilt left | Move left (←) |
 | Tilt right | Move right (→) |
-| Fist | Neutral — do nothing |
+| Fist | Neutral - do nothing |
 
 ## How it works
 
@@ -65,8 +65,8 @@ Then click on your game window and start playing.
 ## Tech stack
 
 - Python
-- MediaPipe — hand landmark detection
-- OpenCV — real-time video processing
-- scikit-learn — neural network classifier
-- PyAutoGUI — keyboard simulation
-- NumPy — landmark normalization
+- MediaPipe -> hand landmark detection
+- OpenCV -> real-time video processing
+- scikit-learn -> neural network classifier
+- PyAutoGUI -> keyboard simulation
+- NumPy -> landmark normalization
