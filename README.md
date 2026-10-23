@@ -5,6 +5,14 @@ No keyboard needed, just your hand.
 
 ---
 
+## Live Demo
+
+Watch my Hand Gesture Game Controller in action!
+
+https://github.com/user-attachments/assets/a2822686-761e-4b33-ae7c-f56e383fc07f
+
+---
+
 ## Gestures
 
 | Gesture | Action |
